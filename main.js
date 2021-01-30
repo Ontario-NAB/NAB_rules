@@ -5,14 +5,6 @@ $.getJSON('https://acapparelli.github.io/NAB_rules/rules.json', function(data) {
     populate_accordion('NABaccordion', data)
 })
 
-function displayMap(x, y, mapname) {
-    let map = L.map(mapname).setView([x, y], 4);
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        subdomains: ['a', 'b', 'c']
-    }).addTo(map);
-    return map
-}
 
 function populate_accordion(accordion_name, data) {
     for (const name in data) {
@@ -85,6 +77,15 @@ function createAccordion(accordion_name, header_name, body_name, button_text, ma
 
 }
 
+function displayMap(x, y, mapname) {
+    let map = L.map(mapname).setView([x, y], 4);
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        subdomains: ['a', 'b', 'c']
+    }).addTo(map);
+    return map
+}
+
 function create_maps(map_name, body_name, coords) {
     var elem_map = displayMap(48.45, -85.58, map_name)
     $(`#${body_name}`).on('shown.bs.collapse', function(e) {
@@ -133,7 +134,6 @@ function create_table_row(map_name, start_date, end_date, map_defined) {
 }
 
 function add_polygon(coords, map) {
-    //const a = JSON.parse(coords)
     const polygon = L.polygon(coords, { color: 'green' })
     polygon.addTo(map)
 }
