@@ -1,7 +1,7 @@
 'use strict'
 
 const accordionparent = document.querySelector('#NABaccordion')
-$.getJSON('https://raw.githubusercontent.com/acapparelli/NAB_rules/master/rules.json', function(data) {
+$.getJSON('https://acapparelli.github.io/NAB_rules/rules.json', function(data) {
     populate_accordion('NABaccordion', data)
 })
 
