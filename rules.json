@@ -1,33 +1,33 @@
 {
-    "Black-Bellied Whistling-Duck": [
+    "Black-bellied Whistling-duck": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Fulvous Whistling-Duck": [
+    "Fulvous Whistling-duck": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Ross'S Goose": [
+    "Ross's Goose": [
         {
             "start_date": "June 1",
             "end_date": "August 31",
             "coords": null
         }
     ],
-    "Greater White-Fronted Goose": [
+    "Greater White-fronted Goose": [
         {
             "start_date": "June 1",
             "end_date": "August 31",
             "coords": null
         }
     ],
-    "Pink-Footed Goose": [
+    "Pink-footed Goose": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -178,7 +178,7 @@
             "coords": null
         }
     ],
-    "Barrow'S Goldeneye": [
+    "Barrow's Goldeneye": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -309,14 +309,14 @@
             "coords": null
         }
     ],
-    "Band-Tailed Pigeon": [
+    "Band-tailed Pigeon": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Eurasian Collared-Dove": [
+    "Eurasian Collared-dove": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -330,21 +330,21 @@
             "coords": null
         }
     ],
-    "White-Winged Dove": [
+    "White-winged Dove": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Groove-Billed Ani": [
+    "Groove-billed Ani": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Yellow-Billed Cuckoo": [
+    "Yellow-billed Cuckoo": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -385,7 +385,7 @@
             "coords": null
         }
     ],
-    "Black-Billed Cuckoo": [
+    "Black-billed Cuckoo": [
         {
             "start_date": "November 1",
             "end_date": "April 30",
@@ -413,7 +413,7 @@
             "coords": null
         }
     ],
-    "Chuck-Will'S-Widow": [
+    "Chuck-will's-widow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -427,7 +427,7 @@
             "coords": null
         }
     ],
-    "White-Collared Swift": [
+    "White-collared Swift": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -448,14 +448,14 @@
             "coords": null
         }
     ],
-    "Black-Chinned Hummingbird": [
+    "Black-chinned Hummingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Anna'S Hummingbird": [
+    "Anna's Hummingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -476,7 +476,7 @@
             "coords": null
         }
     ],
-    "Broad-Billed Hummingbird": [
+    "Broad-billed Hummingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -562,7 +562,7 @@
             "coords": null
         }
     ],
-    "Black-Necked Stilt": [
+    "Black-necked Stilt": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -583,7 +583,7 @@
             "coords": null
         }
     ],
-    "Lesser Sand-Plover": [
+    "Lesser Sand-plover": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -597,7 +597,7 @@
             "coords": null
         }
     ],
-    "Wilson'S Plover": [
+    "Wilson's Plover": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -625,14 +625,14 @@
             "coords": null
         }
     ],
-    "Long-Billed Curlew": [
+    "Long-billed Curlew": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Black-Tailed Godwit": [
+    "Black-tailed Godwit": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -694,14 +694,14 @@
             "coords": null
         }
     ],
-    "Sharp-Tailed Sandpiper": [
+    "Sharp-tailed Sandpiper": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Baird'S Sandpiper": [
+    "Baird's Sandpiper": [
         {
             "start_date": "November 1",
             "end_date": "June 30",
@@ -736,7 +736,7 @@
             "coords": null
         }
     ],
-    "Long-Billed Dowitcher": [
+    "Long-billed Dowitcher": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -777,7 +777,7 @@
             "coords": null
         }
     ],
-    "Red-Necked Phalarope": [
+    "Red-necked Phalarope": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
@@ -899,7 +899,7 @@
             ]
         }
     ],
-    "Long-Tailed Jaeger": [
+    "Long-tailed Jaeger": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -986,7 +986,7 @@
             "coords": null
         }
     ],
-    "Thick-Billed Murre": [
+    "Thick-billed Murre": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1007,7 +1007,7 @@
             "coords": null
         }
     ],
-    "Long-Billed Murrelet": [
+    "Long-billed Murrelet": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1028,7 +1028,7 @@
             "coords": null
         }
     ],
-    "Black-Legged Kittiwake": [
+    "Black-legged Kittiwake": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1042,7 +1042,7 @@
             "coords": null
         }
     ],
-    "Sabine'S Gull": [
+    "Sabine's Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1122,14 +1122,14 @@
             ]
         }
     ],
-    "Black-Headed Gull": [
+    "Black-headed Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Ross'S Gull": [
+    "Ross's Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1143,7 +1143,7 @@
             "coords": null
         }
     ],
-    "Franklin'S Gull": [
+    "Franklin's Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1199,14 +1199,14 @@
             ]
         }
     ],
-    "Black-Tailed Gull": [
+    "Black-tailed Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Heermann'S Gull": [
+    "Heermann's Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1227,7 +1227,7 @@
             "coords": null
         }
     ],
-    "Slaty-Backed Gull": [
+    "Slaty-backed Gull": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1241,7 +1241,7 @@
             "coords": null
         }
     ],
-    "White-Winged Tern": [
+    "White-winged Tern": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1276,7 +1276,7 @@
             "coords": null
         }
     ],
-    "Forster'S Tern": [
+    "Forster's Tern": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
@@ -1318,42 +1318,42 @@
             "coords": null
         }
     ],
-    "Yellow-Billed Loon": [
+    "Yellow-billed Loon": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Yellow-Nosed Albatross": [
+    "Yellow-nosed Albatross": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Wilson'S Storm-Petrel": [
+    "Wilson's Storm-petrel": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Leach'S Storm-Petrel": [
+    "Leach's Storm-petrel": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Band-Rumped Storm-Petrel": [
+    "Band-rumped Storm-petrel": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Storm-Petrel Sp.": [
+    "Storm-petrel Sp.": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1367,7 +1367,7 @@
             "coords": null
         }
     ],
-    "Black-Capped Petrel": [
+    "Black-capped Petrel": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1388,14 +1388,14 @@
             "coords": null
         }
     ],
-    "Audubon'S Shearwater": [
+    "Audubon's Shearwater": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Sooty/Short-Tailed Shearwater": [
+    "Sooty/short-tailed Shearwater": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1601,7 +1601,7 @@
             "coords": null
         }
     ],
-    "Yellow-Crowned Night-Heron": [
+    "Yellow-crowned Night-heron": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1622,14 +1622,14 @@
             "coords": null
         }
     ],
-    "White-Faced Ibis": [
+    "White-faced Ibis": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Glossy/White-Faced Ibis": [
+    "Glossy/white-faced Ibis": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1698,7 +1698,7 @@
             ]
         }
     ],
-    "Swallow-Tailed Kite": [
+    "Swallow-tailed Kite": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1740,7 +1740,7 @@
             "coords": null
         }
     ],
-    "Swainson'S Hawk": [
+    "Swainson's Hawk": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1761,14 +1761,14 @@
             "coords": null
         }
     ],
-    "Lewis'S Woodpecker": [
+    "Lewis's Woodpecker": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Red-Headed Woodpecker": [
+    "Red-headed Woodpecker": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1804,7 +1804,7 @@
             ]
         }
     ],
-    "American Three-Toed Woodpecker": [
+    "American Three-toed Woodpecker": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1832,7 +1832,7 @@
             ]
         }
     ],
-    "Black-Backed Woodpecker": [
+    "Black-backed Woodpecker": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1886,14 +1886,14 @@
             "coords": null
         }
     ],
-    "Western Wood-Pewee": [
+    "Western Wood-pewee": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Yellow-Bellied Flycatcher": [
+    "Yellow-bellied Flycatcher": [
         {
             "start_date": "November 1",
             "end_date": "March 31",
@@ -1966,7 +1966,7 @@
             "coords": null
         }
     ],
-    "Say'S Phoebe": [
+    "Say's Phoebe": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1980,7 +1980,7 @@
             "coords": null
         }
     ],
-    "Ash-Throated Flycatcher": [
+    "Ash-throated Flycatcher": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -1994,7 +1994,7 @@
             "coords": null
         }
     ],
-    "Sulphur-Bellied Flycatcher": [
+    "Sulphur-bellied Flycatcher": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2015,21 +2015,21 @@
             "coords": null
         }
     ],
-    "Tropical/Couch'S Kingbird": [
+    "Tropical/couch's Kingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Cassin'S Kingbird": [
+    "Cassin's Kingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Thick-Billed Kingbird": [
+    "Thick-billed Kingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2043,7 +2043,7 @@
             "coords": null
         }
     ],
-    "Cassin'S/Western Kingbird": [
+    "Cassin's/western Kingbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2057,35 +2057,35 @@
             "coords": null
         }
     ],
-    "Scissor-Tailed Flycatcher": [
+    "Scissor-tailed Flycatcher": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Fork-Tailed Flycatcher": [
+    "Fork-tailed Flycatcher": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Black-Capped Vireo": [
+    "Black-capped Vireo": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "White-Eyed Vireo": [
+    "White-eyed Vireo": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Bell'S Vireo": [
+    "Bell's Vireo": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2099,7 +2099,7 @@
             "coords": null
         }
     ],
-    "Yellow-Throated Vireo": [
+    "Yellow-throated Vireo": [
         {
             "start_date": "November 1",
             "end_date": "March 31",
@@ -2113,7 +2113,7 @@
             "coords": null
         }
     ],
-    "Red-Eyed Vireo": [
+    "Red-eyed Vireo": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
@@ -2181,7 +2181,7 @@
             "coords": null
         }
     ],
-    "Black-Billed Magpie": [
+    "Black-billed Magpie": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2209,7 +2209,7 @@
             ]
         }
     ],
-    "Clark'S Nutcracker": [
+    "Clark's Nutcracker": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2385,7 +2385,7 @@
             ]
         }
     ],
-    "Violet-Green Swallow": [
+    "Violet-green Swallow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2479,7 +2479,7 @@
             ]
         }
     ],
-    "Bewick'S Wren": [
+    "Bewick's Wren": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2536,7 +2536,7 @@
             "coords": null
         }
     ],
-    "Townsend'S Solitaire": [
+    "Townsend's Solitaire": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2550,14 +2550,14 @@
             "coords": null
         }
     ],
-    "Gray-Cheeked Thrush": [
+    "Gray-cheeked Thrush": [
         {
             "start_date": "November 1",
             "end_date": "March 31",
             "coords": null
         }
     ],
-    "Bicknell'S Thrush": [
+    "Bicknell's Thrush": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2606,7 +2606,7 @@
             "coords": null
         }
     ],
-    "Sprague'S Pipit": [
+    "Sprague's Pipit": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2620,7 +2620,7 @@
             "coords": null
         }
     ],
-    "Gray-Crowned Rosy-Finch": [
+    "Gray-crowned Rosy-finch": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2659,7 +2659,7 @@
             ]
         }
     ],
-    "Cassin'S Finch": [
+    "Cassin's Finch": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2673,35 +2673,35 @@
             "coords": null
         }
     ],
-    "Chestnut-Collared Longspur": [
+    "Chestnut-collared Longspur": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Smith'S Longspur": [
+    "Smith's Longspur": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Mccown'S Longspur": [
+    "Mccown's Longspur": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Cassin'S Sparrow": [
+    "Cassin's Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Bachman'S Sparrow": [
+    "Bachman's Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2745,14 +2745,14 @@
             "coords": null
         }
     ],
-    "Brewer'S Sparrow": [
+    "Brewer's Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Black-Throated Sparrow": [
+    "Black-throated Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2773,14 +2773,14 @@
             "coords": null
         }
     ],
-    "Golden-Crowned Sparrow": [
+    "Golden-crowned Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Harris'S Sparrow": [
+    "Harris's Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2812,14 +2812,14 @@
             ]
         }
     ],
-    "Le Conte'S Sparrow": [
+    "Le Conte's Sparrow": [
         {
             "start_date": "November 1",
             "end_date": "March 31",
             "coords": null
         }
     ],
-    "Nelson'S Sparrow": [
+    "Nelson's Sparrow": [
         {
             "start_date": "June 1",
             "end_date": "August 31",
@@ -2856,21 +2856,21 @@
             "coords": null
         }
     ],
-    "Baird'S Sparrow": [
+    "Baird's Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Henslow'S Sparrow": [
+    "Henslow's Sparrow": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Green-Tailed Towhee": [
+    "Green-tailed Towhee": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -2884,14 +2884,14 @@
             "coords": null
         }
     ],
-    "Yellow-Breasted Chat": [
+    "Yellow-breasted Chat": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Yellow-Headed Blackbird": [
+    "Yellow-headed Blackbird": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -3025,21 +3025,21 @@
             "coords": null
         }
     ],
-    "Bullock'S Oriole": [
+    "Bullock's Oriole": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Scott'S Oriole": [
+    "Scott's Oriole": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Great-Tailed Grackle": [
+    "Great-tailed Grackle": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -3102,14 +3102,14 @@
             ]
         }
     ],
-    "Worm-Eating Warbler": [
+    "Worm-eating Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Blue-Winged Warbler": [
+    "Blue-winged Warbler": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
@@ -3137,7 +3137,7 @@
             "coords": null
         }
     ],
-    "Bay-Breasted Warbler": [
+    "Bay-breasted Warbler": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
@@ -3151,7 +3151,7 @@
             "coords": null
         }
     ],
-    "Chestnut-Sided Warbler": [
+    "Chestnut-sided Warbler": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
@@ -3165,21 +3165,21 @@
             "coords": null
         }
     ],
-    "Black-Throated Green Warbler": [
+    "Black-throated Green Warbler": [
         {
             "start_date": "December 1",
             "end_date": "March 31",
             "coords": null
         }
     ],
-    "Swainson'S Warbler": [
+    "Swainson's Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Virginia'S Warbler": [
+    "Virginia's Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -3193,28 +3193,28 @@
             "coords": null
         }
     ],
-    "Yellow-Throated Warbler": [
+    "Yellow-throated Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Grace'S Warbler": [
+    "Grace's Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Black-Throated Gray Warbler": [
+    "Black-throated Gray Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
             "coords": null
         }
     ],
-    "Townsend'S Warbler": [
+    "Townsend's Warbler": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
@@ -3256,7 +3256,7 @@
             "coords": null
         }
     ],
-    "Black-Headed Grosbeak": [
+    "Black-headed Grosbeak": [
         {
             "start_date": "January 1",
             "end_date": "December 31",
