@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link type="text/css" href="main.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
+    <title>Ontario NAB Rules</title>
+</head>
+
+<body>
+
+    <div class="page-header py-3 my-3">
+        <h1>Filtering Rules for Ontario North American Birds Regional Reports</h1>
+    </div>
+
+    <p class="text-center py-3 my-3 px-5 mx-5">
+        This static page provides a graphical representation of the rules used to filter bird reports when genertating the Ontario regional reports for North American Birds. Click on the name of the species to see a table of the start date, end date, and geo
+        bounding box (if applicable) for when this species is notable and should be included in the report. If there is more than one rule for a species, an observation of that species matching any one of the rules merits inclusion. To view the code used
+        to filter sightings from eBird and iNaturalist, see
+        <a href="https://github.com/acapparelli/NAB-filter">NAB dataset filter</a>. This rules list is always evolving and any input on adjusting date ranges or geo bounding boxes is always appreciated.
+
+    </p>
+
+    <div class="accordion px-3 mx-3" id="NABaccordion">
+
+
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
