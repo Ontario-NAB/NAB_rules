@@ -1,5 +1,6 @@
 .maps {
     height: 50vh;
+    min-width: 500px;
 }
 
 .small_col {

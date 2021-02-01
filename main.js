@@ -41,8 +41,6 @@ function createAccordion(accordion_name, header_name, body_name, button_text, ma
     const card_body = document.createElement('div')
     card_body.className = 'card-body'
 
-    const responsive_div = document.createElement('div')
-    responsive_div.className = 'table-responsive'
     const table = document.createElement('table')
     table.className = 'table table-bordered table-hover table-striped'
     const table_header = create_table_header()
@@ -61,8 +59,7 @@ function createAccordion(accordion_name, header_name, body_name, button_text, ma
         table_body.appendChild(body_row)
     })
     table.appendChild(table_body)
-    responsive_div.appendChild(table)
-    card_body.appendChild(responsive_div)
+    card_body.appendChild(table)
 
 
     body_div.appendChild(card_body)
