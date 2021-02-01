@@ -100,12 +100,13 @@ function create_table_header() {
     const table_header = document.createElement('thead')
     const table_row = document.createElement('tr')
     const start_date_header = document.createElement('th')
-    start_date_header.className = 'small_col'
+    start_date_header.className = 'col-xs-3'
     start_date_header.appendChild(document.createTextNode('Start Date'))
     const end_date_header = document.createElement('th')
-    end_date_header.className = 'small_col'
+    end_date_header.className = 'col-xs-3'
     end_date_header.appendChild(document.createTextNode('End Date'))
     const map_header = document.createElement('th')
+    map_header.className = 'col-xs-6'
     map_header.appendChild(document.createTextNode('Map'))
     table_row.appendChild(start_date_header)
     table_row.appendChild(end_date_header)
