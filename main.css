@@ -10,3 +10,9 @@
 .page-header {
     text-align: center;
 }
+
+@media screen and (max-width: 800px) {
+    .tableclass {
+        width: 800px;
+    }
+}
