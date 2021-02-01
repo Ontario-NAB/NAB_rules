@@ -9,7 +9,6 @@ $.getJSON('https://acapparelli.github.io/NAB_rules/rules.json', function(data) {
 function populate_accordion(accordion_name, data) {
     for (const name in data) {
         let safe_name = name.replaceAll("'", '').replaceAll(' ', '').replaceAll('/', '').replaceAll('.', '')
-        console.log(safe_name)
         let header_name = `${safe_name}header`
         let body_name = `${safe_name}body`
         let button_text = name
@@ -81,7 +80,7 @@ function createAccordion(accordion_name, header_name, body_name, button_text, ma
 
 function displayMap(x, y, mapname) {
     let map = L.map(mapname).setView([x, y], 4);
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         subdomains: ['a', 'b', 'c']
     }).addTo(map);
