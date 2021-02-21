@@ -17,7 +17,7 @@ function populate_accordion(accordion_name, data) {
 }
 
 function createAccordion(accordion_name, header_name, body_name, button_text, map_prefix, list_data) {
-    const map_list = new Array(`${map_prefix}Map1`, `${map_prefix}Map2`)
+    //const map_list = new Array(`${map_prefix}Map1`, `${map_prefix}Map2`)
     const created_maps = new Array()
     const new_card = document.createElement('div')
     new_card.className = 'card'
@@ -58,6 +58,7 @@ function createAccordion(accordion_name, header_name, body_name, button_text, ma
             body_row = create_table_row(map_id, element["start_date"], element["end_date"], false)
         }
         table_body.appendChild(body_row)
+        row_count = row_count + 1
     })
     table.appendChild(table_body)
     responsive_div.appendChild(table)
