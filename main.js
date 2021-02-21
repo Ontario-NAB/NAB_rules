@@ -17,7 +17,6 @@ function populate_accordion(accordion_name, data) {
 }
 
 function createAccordion(accordion_name, header_name, body_name, button_text, map_prefix, list_data) {
-    //const map_list = new Array(`${map_prefix}Map1`, `${map_prefix}Map2`)
     const created_maps = new Array()
     const new_card = document.createElement('div')
     new_card.className = 'card'
