@@ -34,6 +34,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Barnacle X Canada Goose (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Mute Swan": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -101,12 +106,62 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Blue-winged X Cinnamon Teal (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Blue-winged Teal X Northern Shoveler (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Eurasian Wigeon": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
     }],
+    "Gadwall X American Wigeon (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Eurasian X American Wigeon (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Northern Shoveler X Mallard (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Mottled Duck": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Gadwall X Northern Pintail (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Green-winged Teal (Eurasian)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Gadwall X Green-winged Teal (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "American Wigeon X Green-winged Teal (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Northern Pintail X Green-winged Teal (hybrid)": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
@@ -135,7 +190,52 @@
             ]
         ]
     }],
+    "Canvasback X Ring-necked Duck (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Tufted Duck": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Redhead X Greater Scaup (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Ring-necked Duck X Greater Scaup (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Tufted Duck X Greater Scaup (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Redhead X Lesser Scaup (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Ring-necked Duck X Lesser Scaup (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Redhead X Scaup sp. (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Ring-necked Duck X Scaup sp. (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Tufted Duck X Scaup sp. (hybrid)": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
@@ -214,6 +314,11 @@
             "coords": null
         }
     ],
+    "Bufflehead X Common Goldeneye (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Barrow's Goldeneye": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -244,7 +349,22 @@
             ]
         ]
     }],
+    "Common X Barrow's Goldeneye (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Smew": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Wood Duck X Hooded Merganser (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Bufflehead X Hooded Merganser (hybrid)": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
@@ -912,6 +1032,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Dunlin X White-rumped Sandpiper (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Western Sandpiper": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -1115,6 +1240,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Large Alcid sp.": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Black Guillemot": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -1306,6 +1436,11 @@
         "coords": null
     }],
     "Mew Gull": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Laughing X Ring-billed Gull (hybrid)": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
@@ -1960,6 +2095,16 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Red-shouldered X Red-tailed Hawk (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Red-tailed X Rough-legged Hawk (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Ferruginous Hawk": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -2026,6 +2171,11 @@
                 55.34502161753965, -93.37022685570791
             ]
         ]
+    }],
+    "Yellow-bellied X Red-naped Sapsucker (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
     }],
     "Lewis's Woodpecker": [{
         "start_date": "January 1",
@@ -2365,6 +2515,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Western X Eastern Kingbird (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Gray Kingbird": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -2546,6 +2701,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Carolina X Black-capped Chickadee (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Boreal Chickadee": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -2670,6 +2830,11 @@
         ]
     }],
     "Violet-green Swallow": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Barn X Cliff Swallow (hybrid)": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
@@ -3189,6 +3354,11 @@
             "coords": null
         }
     ],
+    "Chipping X Clay-colored Sparrow (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Field Sparrow": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -3233,6 +3403,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "White-crowned Sparrow (Gambel's)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Golden-crowned Sparrow": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -3261,6 +3436,16 @@
                 48.26601732396257, -87.584756062218
             ]
         ]
+    }],
+    "White-crowned X White-throated Sparrow (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Dark-eyed Junco X White-throated Sparrow (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
     }],
     "Vesper Sparrow": [{
         "start_date": "January 1",
@@ -3482,6 +3667,11 @@
                 55.34502161753965, -93.37022685570791
             ]
         ]
+    }],
+    "Western X Eastern Meadowlark (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
     }],
     "Orchard Oriole": [{
         "start_date": "January 1",
@@ -3806,6 +3996,11 @@
         "end_date": "March 31",
         "coords": null
     }],
+    "Magnolia X Chestnut-sided Warbler (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Blackpoll Warbler": [{
         "start_date": "December 1",
         "end_date": "March 31",
@@ -3844,6 +4039,16 @@
             ]
         ]
     }],
+    "Magnolia X Black-throated Blue Warbler (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Palm Warbler (Yellow)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Pine Warbler": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -3876,6 +4081,16 @@
                 55.34502161753965, -93.37022685570791
             ]
         ]
+    }],
+    "Yellow-rumped Warbler (Audubon's)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Magnolia X Yellow-rumped Warbler (hybrid)": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
     }],
     "Yellow-throated Warbler": [{
         "start_date": "January 1",
@@ -3917,6 +4132,11 @@
         "coords": null
     }],
     "Townsend's Warbler": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Black-throated Gray X Townsend's Warbler (hybrid)": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
