@@ -8,7 +8,7 @@ $.getJSON('https://Ontario-NAB.github.io/NAB_rules/rules.json', function(data) {
 
 function populate_accordion(accordion_name, data) {
     for (const name in data) {
-        let safe_name = name.replaceAll("'", '').replaceAll(' ', '').replaceAll('/', '').replaceAll('.', '').replaceAll('(hybrid)', '')
+        let safe_name = name.replaceAll("'", '').replaceAll(' ', '').replaceAll('/', '').replaceAll('.', '').replaceAll('(hybrid)', '').replaceAll('(', '').replaceAll(')', '')
         let header_name = `${safe_name}header`
         let body_name = `${safe_name}body`
         let button_text = name
