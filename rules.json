@@ -2944,38 +2944,10 @@
         ]
     }],
     "Sedge Wren": [{
-            "start_date": "June 1",
-            "end_date": "July 31",
-            "coords": [
-                [
-                    43.5604911, -82.4702255
-                ],
-                [
-                    41.1869224, -83.7380126
-                ],
-                [
-                    41.5003496, -75.9118378
-                ],
-                [
-                    44.9414734, -74.9995168
-                ],
-                [
-                    43.9947904, -79.8042153
-                ],
-                [
-                    43.5545199, -81.150897
-                ],
-                [
-                    43.5604911, -82.4702255
-                ]
-            ]
-        },
-        {
-            "start_date": "November 1",
-            "end_date": "March 31",
-            "coords": null
-        }
-    ],
+        "start_date": "November 1",
+        "end_date": "March 31",
+        "coords": null
+    }],
     "Marsh Wren": [{
         "start_date": "January 1",
         "end_date": "December 31",
