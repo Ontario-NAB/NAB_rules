@@ -1434,7 +1434,12 @@
         "end_date": "December 31",
         "coords": null
     }],
-    "Mew Gull": [{
+    "Common Gull": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Short-billed Gull": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
