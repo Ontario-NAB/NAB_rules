@@ -1106,6 +1106,11 @@
         "end_date": "December 31",
         "coords": null
     }],
+    "Marsh Sandpiper": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
     "Pomarine Jaeger": [{
         "start_date": "January 1",
         "end_date": "December 31",
@@ -4174,6 +4179,11 @@
         "coords": null
     }],
     "Painted Redstart": [{
+        "start_date": "January 1",
+        "end_date": "December 31",
+        "coords": null
+    }],
+    "Hepatic Tanager": [{
         "start_date": "January 1",
         "end_date": "December 31",
         "coords": null
