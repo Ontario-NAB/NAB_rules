@@ -3926,6 +3926,4284 @@
     }],
     "Swainson's Warbler": [{
         "start_date": "January 1",
+        {
+            "Black-bellied Whistling-Duck": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Fulvous Whistling-Duck": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ross's Goose": [{
+                "start_date": "June 1",
+                "end_date": "September 15",
+                "coords": null
+            }],
+            "Greater White-fronted Goose": [{
+                "start_date": "June 1",
+                "end_date": "August 31",
+                "coords": null
+            }],
+            "Tundra Bean-Goose": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Pink-footed Goose": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Brant": [{
+                "start_date": "June 15",
+                "end_date": "August 31",
+                "coords": null
+            }],
+            "Barnacle Goose": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Barnacle X Canada Goose (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Mute Swan": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Trumpeter Swan": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Garganey": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Cinnamon Teal": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Blue-winged X Cinnamon Teal (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Blue-winged Teal X Northern Shoveler (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eurasian Wigeon": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Gadwall X American Wigeon (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eurasian X American Wigeon (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Shoveler X Mallard (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Mottled Duck": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Gadwall X Northern Pintail (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Green-winged Teal (Eurasian)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Gadwall X Green-winged Teal (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "American Wigeon X Green-winged Teal (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Pintail X Green-winged Teal (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Canvasback": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        48.9194150857585, -86.07077913032089
+                    ],
+                    [
+                        52.90607130575171, -82.15964631782089
+                    ],
+                    [
+                        51.805712636989604, -78.02878694282089
+                    ],
+                    [
+                        47.63262073889206, -79.61081819282089
+                    ],
+                    [
+                        47.72138707348396, -83.14841584907089
+                    ],
+                    [
+                        48.9194150857585, -86.07077913032089
+                    ]
+                ]
+            }],
+            "Canvasback X Ring-necked Duck (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tufted Duck": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Redhead X Greater Scaup (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ring-necked Duck X Greater Scaup (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tufted Duck X Greater Scaup (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tufted Duck X Lesser Scaup (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Redhead X Lesser Scaup (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ring-necked Duck X Lesser Scaup (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Redhead X Scaup sp. (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ring-necked Duck X Scaup sp. (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tufted Duck X Scaup sp. (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "King Eider": [{
+                    "start_date": "June 1",
+                    "end_date": "September 30",
+                    "coords": null
+                },
+                {
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            45.28744915903176, -83.01411293865303
+                        ],
+                        [
+                            45.310632725708444, -79.83906411052803
+                        ],
+                        [
+                            45.11714668931905, -78.00434731365303
+                        ],
+                        [
+                            45.90243397222414, -76.94965981365303
+                        ],
+                        [
+                            51.73808585380978, -79.56440590740303
+                        ],
+                        [
+                            55.873000331888505, -82.44831704021553
+                        ],
+                        [
+                            58.80022853713858, -94.12129067302803
+                        ],
+                        [
+                            48.65922253181058, -96.91731118084053
+                        ],
+                        [
+                            45.28744915903176, -83.01411293865303
+                        ]
+                    ]
+                }
+            ],
+            "Common Eider": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Harlequin Duck": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            58.94465679071982, -96.0053932660598
+                        ],
+                        [
+                            45.92865505932927, -95.52199482855978
+                        ],
+                        [
+                            46.20306982042807, -74.84572529730978
+                        ],
+                        [
+                            57.95599910603665, -70.38527607855981
+                        ],
+                        [
+                            58.94465679071982, -96.0053932660598
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "June 1",
+                    "end_date": "August 31",
+                    "coords": null
+                }
+            ],
+            "Bufflehead X Common Goldeneye (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Barrow's Goldeneye": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        58.44874917093712, -87.46221264318885
+                    ],
+                    [
+                        48.99591039606452, -67.26934154943885
+                    ],
+                    [
+                        45.76887786847241, -77.25591381506385
+                    ],
+                    [
+                        43.89533369758435, -76.22869213537635
+                    ],
+                    [
+                        39.6748653898414, -80.65068920568885
+                    ],
+                    [
+                        48.634192226932086, -100.38213451818885
+                    ],
+                    [
+                        54.87772414472053, -96.51494701818885
+                    ],
+                    [
+                        58.44874917093712, -87.46221264318885
+                    ]
+                ]
+            }],
+            "Common X Barrow's Goldeneye (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Smew": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Wood Duck X Hooded Merganser (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Bufflehead X Hooded Merganser (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Bobwhite": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Willow Ptarmigan": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        53.98876219591412, -94.82661844780347
+                    ],
+                    [
+                        50.8549032433137, -79.00630594780347
+                    ],
+                    [
+                        46.263874365354646, -73.73286844780347
+                    ],
+                    [
+                        43.71598604949537, -73.64497782280347
+                    ],
+                    [
+                        40.36376412539355, -83.59859110405347
+                    ],
+                    [
+                        47.95356315265956, -96.18892313530347
+                    ],
+                    [
+                        51.11081193887077, -95.74947001030347
+                    ],
+                    [
+                        53.98876219591412, -94.82661844780347
+                    ]
+                ]
+            }],
+            "Rock Ptarmigan": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eared Grebe": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Western Grebe": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Band-tailed Pigeon": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eurasian Collared-Dove": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Inca Dove": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Common Ground Dove": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White-winged Dove": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Groove-billed Ani": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-billed Cuckoo": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ],
+                        [
+                            53.63513477448582, -86.83336162133291
+                        ],
+                        [
+                            52.812995289320895, -86.58067607445791
+                        ],
+                        [
+                            50.215867806880944, -84.28453349633291
+                        ],
+                        [
+                            50.33873628139631, -79.95317363305166
+                        ],
+                        [
+                            50.29313643655241, -78.37938212914541
+                        ],
+                        [
+                            54.588240811629646, -74.04527568383291
+                        ],
+                        [
+                            58.37027337965573, -86.75645732445791
+                        ],
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "November 1",
+                    "end_date": "April 30",
+                    "coords": null
+                }
+            ],
+            "Black-billed Cuckoo": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ],
+                        [
+                            53.63513477448582, -86.83336162133291
+                        ],
+                        [
+                            52.812995289320895, -86.58067607445791
+                        ],
+                        [
+                            50.215867806880944, -84.28453349633291
+                        ],
+                        [
+                            50.33873628139631, -79.95317363305166
+                        ],
+                        [
+                            50.29313643655241, -78.37938212914541
+                        ],
+                        [
+                            54.588240811629646, -74.04527568383291
+                        ],
+                        [
+                            58.37027337965573, -86.75645732445791
+                        ],
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "November 1",
+                    "end_date": "April 30",
+                    "coords": null
+                }
+            ],
+            "Lesser Nighthawk": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Common Nighthawk": [{
+                "start_date": "November 1",
+                "end_date": "April 30",
+                "coords": null
+            }],
+            "Common Poorwill": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Chuck-will's-widow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eastern Whip-poor-will": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Black Swift": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White-collared Swift": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Chimney Swift": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ],
+                        [
+                            53.63513477448582, -86.83336162133291
+                        ],
+                        [
+                            52.812995289320895, -86.58067607445791
+                        ],
+                        [
+                            50.215867806880944, -84.28453349633291
+                        ],
+                        [
+                            50.33873628139631, -79.95317363305166
+                        ],
+                        [
+                            50.29313643655241, -78.37938212914541
+                        ],
+                        [
+                            54.588240811629646, -74.04527568383291
+                        ],
+                        [
+                            58.37027337965573, -86.75645732445791
+                        ],
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "November 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Mexican Violetear": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-chinned Hummingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Anna's Hummingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Rufous Hummingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Calliope Hummingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Broad-billed Hummingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Common Gallinule": [{
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                },
+                {
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                }
+            ],
+            "American Coot": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Purple Gallinule": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow Rail": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            50.33646042760662, -75.76210017981717
+                        ],
+                        [
+                            50.75533897677039, -83.45252986731717
+                        ],
+                        [
+                            55.941303061043925, -91.71424861731717
+                        ],
+                        [
+                            48.303048418433455, -100.30555721106717
+                        ],
+                        [
+                            46.15484692044365, -87.62733455481717
+                        ],
+                        [
+                            40.360914497782595, -83.82606502356717
+                        ],
+                        [
+                            40.719921517933514, -69.82948299231717
+                        ],
+                        [
+                            50.33646042760662, -75.76210017981717
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "September 1",
+                    "end_date": "May 31",
+                    "coords": null
+                }
+            ],
+            "Black Rail": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Limpkin": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Whooping Crane": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-necked Stilt": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "American Avocet": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "American Oystercatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lesser Sand-plover": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Snowy Plover": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Wilson's Plover": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Common Ringed Plover": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Piping Plover": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eurasian Dotterel": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Upland Sandpiper": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Long-billed Curlew": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-tailed Godwit": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Hudsonian Godwit": [{
+                    "start_date": "June 1",
+                    "end_date": "August 31",
+                    "coords": [
+                        [
+                            50.33646042760662, -75.76210017981717
+                        ],
+                        [
+                            50.75533897677039, -83.45252986731717
+                        ],
+                        [
+                            55.941303061043925, -91.71424861731717
+                        ],
+                        [
+                            48.303048418433455, -100.30555721106717
+                        ],
+                        [
+                            46.15484692044365, -87.62733455481717
+                        ],
+                        [
+                            40.360914497782595, -83.82606502356717
+                        ],
+                        [
+                            40.719921517933514, -69.82948299231717
+                        ],
+                        [
+                            50.33646042760662, -75.76210017981717
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Marbled Godwit": [{
+                "start_date": "June 1",
+                "end_date": "July 31",
+                "coords": [
+                    [
+                        55.01977841993126, -91.66477846636705
+                    ],
+                    [
+                        49.487333283350615, -79.18430971636705
+                    ],
+                    [
+                        43.633618247963646, -73.11985659136705
+                    ],
+                    [
+                        40.4360021202757, -82.61204409136705
+                    ],
+                    [
+                        50.50428079470779, -95.53196596636705
+                    ],
+                    [
+                        53.374749829280596, -95.83958315386705
+                    ],
+                    [
+                        55.01977841993126, -91.66477846636705
+                    ]
+                ]
+            }],
+            "Ruff": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sharp-tailed Sandpiper": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Baird's Sandpiper": [{
+                "start_date": "November 1",
+                "end_date": "June 30",
+                "coords": null
+            }],
+            "Red Knot": [{
+                "start_date": "November 1",
+                "end_date": "April 30",
+                "coords": null
+            }],
+            "Curlew Sandpiper": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Purple Sandpiper": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        46.90930599818056, -71.85350322289541
+                    ],
+                    [
+                        47.0442323641476, -80.74418925805166
+                    ],
+                    [
+                        46.96931530395245, -89.65684794945791
+                    ],
+                    [
+                        47.163881139787385, -96.30357646508293
+                    ],
+                    [
+                        48.93212677120807, -98.4362242083668
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Little Stint": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Dunlin X White-rumped Sandpiper (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Western Sandpiper": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Long-billed Dowitcher": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.02610981883406, -83.52900619590828
+                        ],
+                        [
+                            47.79706924327128, -78.29951400840828
+                        ],
+                        [
+                            55.91116539882202, -79.26631088340828
+                        ],
+                        [
+                            57.55014776356594, -88.40693588340828
+                        ],
+                        [
+                            53.86432023308791, -95.35029525840828
+                        ],
+                        [
+                            49.137303708216905, -96.52583236778328
+                        ],
+                        [
+                            46.02610981883406, -83.52900619590828
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Red-necked Phalarope": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Red Phalarope": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Wandering Tattler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Solitary Sandpiper": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Spotted Redshank": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Willet": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Marsh Sandpiper": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Pomarine Jaeger": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.99138363818026, -82.2441172711181
+                    ],
+                    [
+                        49.35947798649629, -74.23783065002435
+                    ],
+                    [
+                        44.68625761903563, -72.85561324279779
+                    ],
+                    [
+                        44.187776876621385, -78.37280989807122
+                    ],
+                    [
+                        43.33673215129864, -80.56509734313958
+                    ],
+                    [
+                        43.0864163128494, -79.17584181945794
+                    ],
+                    [
+                        42.948286223117435, -79.00731326263421
+                    ],
+                    [
+                        42.82596279137309, -80.04728079956048
+                    ],
+                    [
+                        42.79056119750254, -81.08900786560052
+                    ],
+                    [
+                        42.02575305919438, -82.9142832867431
+                    ],
+                    [
+                        42.19653099166755, -83.74250651519769
+                    ],
+                    [
+                        43.20936416538255, -81.59343482177728
+                    ],
+                    [
+                        44.37437136162827, -81.38220549743646
+                    ],
+                    [
+                        45.22821797206454, -82.26300002258294
+                    ],
+                    [
+                        46.32444662291857, -86.41960860412591
+                    ],
+                    [
+                        48.70827005192334, -95.47474623840326
+                    ],
+                    [
+                        53.8248986836188, -97.5865244976806
+                    ],
+                    [
+                        57.29863300099407, -89.87137557189935
+                    ],
+                    [
+                        55.99138363818026, -82.2441172711181
+                    ]
+                ]
+            }],
+            "Long-tailed Jaeger": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.99138363818026, -82.2441172711181
+                    ],
+                    [
+                        49.35947798649629, -74.23783065002435
+                    ],
+                    [
+                        44.68625761903563, -72.85561324279779
+                    ],
+                    [
+                        44.187776876621385, -78.37280989807122
+                    ],
+                    [
+                        43.33673215129864, -80.56509734313958
+                    ],
+                    [
+                        43.0864163128494, -79.17584181945794
+                    ],
+                    [
+                        42.948286223117435, -79.00731326263421
+                    ],
+                    [
+                        42.82596279137309, -80.04728079956048
+                    ],
+                    [
+                        42.79056119750254, -81.08900786560052
+                    ],
+                    [
+                        42.02575305919438, -82.9142832867431
+                    ],
+                    [
+                        42.19653099166755, -83.74250651519769
+                    ],
+                    [
+                        43.20936416538255, -81.59343482177728
+                    ],
+                    [
+                        44.37437136162827, -81.38220549743646
+                    ],
+                    [
+                        45.22821797206454, -82.26300002258294
+                    ],
+                    [
+                        46.32444662291857, -86.41960860412591
+                    ],
+                    [
+                        48.70827005192334, -95.47474623840326
+                    ],
+                    [
+                        53.8248986836188, -97.5865244976806
+                    ],
+                    [
+                        57.29863300099407, -89.87137557189935
+                    ],
+                    [
+                        55.99138363818026, -82.2441172711181
+                    ]
+                ]
+            }],
+            "Dovekie": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Thick-billed Murre": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Razorbill": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Large Alcid sp.": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black Guillemot": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Long-billed Murrelet": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ancient Murrelet": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Atlantic Puffin": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-legged Kittiwake": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ivory Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sabine's Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.99138363818026, -82.2441172711181
+                    ],
+                    [
+                        49.35947798649629, -74.23783065002435
+                    ],
+                    [
+                        44.68625761903563, -72.85561324279779
+                    ],
+                    [
+                        44.187776876621385, -78.37280989807122
+                    ],
+                    [
+                        43.33673215129864, -80.56509734313958
+                    ],
+                    [
+                        43.0864163128494, -79.17584181945794
+                    ],
+                    [
+                        42.948286223117435, -79.00731326263421
+                    ],
+                    [
+                        42.82596279137309, -80.04728079956048
+                    ],
+                    [
+                        42.79056119750254, -81.08900786560052
+                    ],
+                    [
+                        42.02575305919438, -82.9142832867431
+                    ],
+                    [
+                        42.19653099166755, -83.74250651519769
+                    ],
+                    [
+                        43.20936416538255, -81.59343482177728
+                    ],
+                    [
+                        44.37437136162827, -81.38220549743646
+                    ],
+                    [
+                        45.22821797206454, -82.26300002258294
+                    ],
+                    [
+                        46.32444662291857, -86.41960860412591
+                    ],
+                    [
+                        48.70827005192334, -95.47474623840326
+                    ],
+                    [
+                        53.8248986836188, -97.5865244976806
+                    ],
+                    [
+                        57.29863300099407, -89.87137557189935
+                    ],
+                    [
+                        55.99138363818026, -82.2441172711181
+                    ]
+                ]
+            }],
+            "Black-headed Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Little Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        46.90930599818056, -71.85350322289541
+                    ],
+                    [
+                        47.0442323641476, -80.74418925805166
+                    ],
+                    [
+                        46.96931530395245, -89.65684794945791
+                    ],
+                    [
+                        47.163881139787385, -96.30357646508293
+                    ],
+                    [
+                        48.93212677120807, -98.4362242083668
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Ross's Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Laughing Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Franklin's Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        57.63699494878111, -87.37543747327776
+                    ],
+                    [
+                        53.044981136881056, -98.62543747327774
+                    ],
+                    [
+                        49.740957051823784, -95.12766525648087
+                    ],
+                    [
+                        49.663684703449256, -94.28652450941055
+                    ],
+                    [
+                        48.684218782714495, -92.9647319068715
+                    ],
+                    [
+                        40.150080061963145, -89.92426559827776
+                    ],
+                    [
+                        42.23315806588472, -61.75532028577775
+                    ],
+                    [
+                        57.63699494878111, -87.37543747327776
+                    ]
+                ]
+            }],
+            "Black-tailed Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Heermann's Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Common Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Short-billed Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Laughing X Ring-billed Gull (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "California Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lesser Black-backed Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Slaty-backed Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Glaucous-winged Gull": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sooty Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Least Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White-winged Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Arctic Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        50.33646042760662, -75.76210017981717
+                    ],
+                    [
+                        50.75533897677039, -83.45252986731717
+                    ],
+                    [
+                        55.941303061043925, -91.71424861731717
+                    ],
+                    [
+                        48.303048418433455, -100.30555721106717
+                    ],
+                    [
+                        46.15484692044365, -87.62733455481717
+                    ],
+                    [
+                        40.360914497782595, -83.82606502356717
+                    ],
+                    [
+                        40.719921517933514, -69.82948299231717
+                    ],
+                    [
+                        50.33646042760662, -75.76210017981717
+                    ]
+                ]
+            }],
+            "Forster's Tern": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Caspian Tern": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Black Tern": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Common Tern": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Royal Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sandwich Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Elegant Tern": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black Skimmer": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Pacific Loon": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-billed Loon": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-nosed Albatross": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Wilson's Storm-Petrel": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Leach's Storm-Petrel": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Band-rumped Storm-Petrel": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Storm-Petrel sp.": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Fulmar": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-capped Petrel": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Great Shearwater": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Manx Shearwater": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Audubon's Shearwater": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sooty/Short-tailed Shearwater": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Shearwater sp.": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Wood Stork": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Magnificent Frigatebird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Frigatebird sp.": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Brown Booby": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Gannet": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Anhinga": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Great Cormorant": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Neotropic Cormorant": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "American White Pelican": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            42.04187725255843, -81.89673324438282
+                        ],
+                        [
+                            44.61660146923972, -71.32239242407032
+                        ],
+                        [
+                            49.9465618496524, -79.54016586157032
+                        ],
+                        [
+                            49.47769813295959, -81.84729476782032
+                        ],
+                        [
+                            44.81957369910498, -84.00061508032032
+                        ],
+                        [
+                            42.18042981696523, -83.17114730688282
+                        ],
+                        [
+                            42.04187725255843, -81.89673324438282
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Brown Pelican": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Least Bittern": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "November 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Little Egret": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Snowy Egret": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Little Blue Heron": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tricolored Heron": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Reddish Egret": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Great Egret": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Cattle Egret": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Green Heron": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Black-crowned Night-Heron": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Yellow-crowned Night-Heron": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White Ibis": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Glossy Ibis": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White-faced Ibis": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Glossy/White-faced Ibis": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ibis sp.": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Roseate Spoonbill": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black Vulture": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        41.41358934253522, -79.18336785084477
+                    ],
+                    [
+                        43.5363067348257, -79.16139519459477
+                    ],
+                    [
+                        43.933211892498676, -75.60182488209477
+                    ],
+                    [
+                        45.80171450823866, -73.22877800709477
+                    ],
+                    [
+                        53.595522677895765, -77.67274773365727
+                    ],
+                    [
+                        58.103792338216785, -90.02687371021977
+                    ],
+                    [
+                        53.667183857433216, -94.5491210246729
+                    ],
+                    [
+                        48.70881842386149, -97.84089958912602
+                    ],
+                    [
+                        41.64387834534348, -84.38539421803227
+                    ],
+                    [
+                        41.41358934253522, -79.18336785084477
+                    ]
+                ]
+            }],
+            "Turkey Vulture": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Swallow-tailed Kite": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Golden Eagle": [{
+                "start_date": "June 1",
+                "end_date": "August 31",
+                "coords": [
+                    [
+                        46.64729622613731, -84.49540784620643
+                    ],
+                    [
+                        46.496246353072785, -76.54130628370643
+                    ],
+                    [
+                        44.17996842330521, -69.81767347120643
+                    ],
+                    [
+                        41.17630767122074, -83.30888440870643
+                    ],
+                    [
+                        46.64729622613731, -84.49540784620643
+                    ]
+                ]
+            }],
+            "Mississippi Kite": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Cooper's Hawk": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Red-shouldered Hawk": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Swainson's Hawk": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Red-shouldered X Red-tailed Hawk (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Red-tailed X Rough-legged Hawk (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ferruginous Hawk": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eastern Screech-Owl": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Burrowing Owl": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Barred Owl": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Yellow-bellied X Red-naped Sapsucker (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lewis's Woodpecker": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Red-headed Woodpecker": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        49.875760985338545, -95.1622984271168
+                    ],
+                    [
+                        48.93212677120807, -88.2628843646168
+                    ],
+                    [
+                        50.88455665949299, -87.3839781146168
+                    ],
+                    [
+                        49.90407311353855, -77.3150083880543
+                    ],
+                    [
+                        54.80913052617399, -81.3085386614918
+                    ],
+                    [
+                        58.00421983737804, -87.1257994036793
+                    ],
+                    [
+                        54.682303113418, -97.0739195208668
+                    ],
+                    [
+                        49.875760985338545, -95.1622984271168
+                    ]
+                ]
+            }],
+            "Red-bellied Woodpecker": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "American Three-toed Woodpecker": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.043520399515586, -84.25795648317904
+                    ],
+                    [
+                        46.740635385340184, -76.91908929567904
+                    ],
+                    [
+                        44.27748072844982, -69.49233148317904
+                    ],
+                    [
+                        41.063638499893855, -83.51088617067904
+                    ],
+                    [
+                        46.043520399515586, -84.25795648317904
+                    ]
+                ]
+            }],
+            "Black-backed Woodpecker": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        45.46092361838332, -82.74184320192904
+                    ],
+                    [
+                        44.86445763175035, -79.74257562380404
+                    ],
+                    [
+                        44.24207374061447, -78.26491449099154
+                    ],
+                    [
+                        44.83330175339589, -76.46864984255404
+                    ],
+                    [
+                        45.56870107308418, -73.40346429567904
+                    ],
+                    [
+                        42.707490339257674, -77.57277581911654
+                    ],
+                    [
+                        40.33065760570574, -84.24697015505404
+                    ],
+                    [
+                        45.46092361838332, -82.74184320192904
+                    ]
+                ]
+            }],
+            "Crested Caracara": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Prairie Falcon": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Western Wood-Pewee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eastern Wood-Pewee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Yellow-bellied Flycatcher": [{
+                "start_date": "November 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Acadian Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        43.914537706703996, -82.18154046755404
+                    ],
+                    [
+                        44.16331520887914, -79.17128656130404
+                    ],
+                    [
+                        43.82939840550157, -77.28163812380404
+                    ],
+                    [
+                        43.82741697461651, -76.27089593630404
+                    ],
+                    [
+                        45.7606474420176, -71.89833734255404
+                    ],
+                    [
+                        53.229733637838294, -80.64345453005404
+                    ],
+                    [
+                        57.76852911845722, -83.97231195192904
+                    ],
+                    [
+                        57.65812976377793, -89.76760003786654
+                    ],
+                    [
+                        56.30040440541526, -96.09023187380404
+                    ],
+                    [
+                        48.6889870512042, -95.81557367067904
+                    ],
+                    [
+                        43.914537706703996, -82.18154046755404
+                    ]
+                ]
+            }],
+            "Willow Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Gray Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Dusky Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Say's Phoebe": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Vermilion Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ash-throated Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Great-crested Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Great Kiskadee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sulphur-bellied Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Variegated Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tropical Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tropical/Couch's Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Cassin's Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Thick-billed Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Western Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Cassin's/Western Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Western X Eastern Kingbird (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Gray Kingbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Scissor-tailed Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Fork-tailed Flycatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-capped Vireo": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White-eyed Vireo": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Bell's Vireo": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Plumbeous Vireo": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-throated Vireo": [{
+                "start_date": "November 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Warbling Vireo": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Red-eyed Vireo": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Loggerhead Shrike": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            44.81840860013716, -79.3556759225307
+                        ],
+                        [
+                            44.372491546609815, -79.11123012174944
+                        ],
+                        [
+                            43.95084272399341, -78.5811397897182
+                        ],
+                        [
+                            44.17583446452265, -77.2023556100307
+                        ],
+                        [
+                            44.30963288249521, -76.35366176237444
+                        ],
+                        [
+                            44.64670574544967, -76.3179561959682
+                        ],
+                        [
+                            44.01408462305982, -74.76476405729632
+                        ],
+                        [
+                            43.182681883353034, -73.34340785612444
+                        ],
+                        [
+                            40.85696254354321, -82.1462032662807
+                        ],
+                        [
+                            44.849572531143394, -86.4198849069057
+                        ],
+                        [
+                            44.88071960956738, -86.6286251412807
+                        ],
+                        [
+                            44.81840860013716, -79.3556759225307
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "November 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Black-billed Magpie": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        39.17480136162396, -83.86287148546121
+                    ],
+                    [
+                        46.56831427940278, -66.46052773546121
+                    ],
+                    [
+                        56.63962578839483, -83.77498086046121
+                    ],
+                    [
+                        47.12435645222592, -93.31111367296121
+                    ],
+                    [
+                        39.17480136162396, -83.86287148546121
+                    ]
+                ]
+            }],
+            "Clark's Nutcracker": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eurasian Jackdaw": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Fish Crow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        57.14488408597597, -88.67420213999736
+                    ],
+                    [
+                        47.29003706189647, -60.81287401499736
+                    ],
+                    [
+                        43.81431666407724, -77.20447557749736
+                    ],
+                    [
+                        43.96079705607953, -79.18750780405986
+                    ],
+                    [
+                        43.54616106121639, -79.85492723765361
+                    ],
+                    [
+                        43.3287759221661, -80.25867479624736
+                    ],
+                    [
+                        42.899712111075665, -79.14905565562236
+                    ],
+                    [
+                        41.80776521023943, -79.76429003062236
+                    ],
+                    [
+                        40.88818744993852, -88.19629686655986
+                    ],
+                    [
+                        47.64651860010116, -95.61756151499736
+                    ],
+                    [
+                        53.18266819167963, -96.71619432749736
+                    ],
+                    [
+                        57.14488408597597, -88.67420213999736
+                    ]
+                ]
+            }],
+            "Chihuahuan Raven": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Carolina Chickadee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Carolina X Black-capped Chickadee (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Boreal Chickadee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        45.46092361838332, -82.74184320192904
+                    ],
+                    [
+                        44.86445763175035, -79.74257562380404
+                    ],
+                    [
+                        44.24207374061447, -78.26491449099154
+                    ],
+                    [
+                        44.83330175339589, -76.46864984255404
+                    ],
+                    [
+                        45.56870107308418, -73.40346429567904
+                    ],
+                    [
+                        42.707490339257674, -77.57277581911654
+                    ],
+                    [
+                        40.33065760570574, -84.24697015505404
+                    ],
+                    [
+                        45.46092361838332, -82.74184320192904
+                    ]
+                ]
+            }],
+            "Tufted Titmouse": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        57.69930324960985, -87.5654351221666
+                    ],
+                    [
+                        52.90343439425256, -98.0244194971666
+                    ],
+                    [
+                        44.017902611539526, -94.0693413721666
+                    ],
+                    [
+                        44.63094010024887, -78.7763726221666
+                    ],
+                    [
+                        44.857230375557755, -76.7109429346666
+                    ],
+                    [
+                        45.69984808500642, -76.1396538721666
+                    ],
+                    [
+                        57.69930324960985, -87.5654351221666
+                    ]
+                ]
+            }],
+            "Northern Rough-winged Swallow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Purple Martin": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Violet-green Swallow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Barn X Cliff Swallow (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Cave Swallow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-browed Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White-breasted Nuthatch": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Blue-gray Gnatcatcher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Rock Wren": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "House Wren": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Sedge Wren": [{
+                "start_date": "November 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Marsh Wren": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        50.60953587272235, -95.2790540895371
+                    ],
+                    [
+                        49.4236314386827, -87.8193372926621
+                    ],
+                    [
+                        48.91362719450001, -78.9313978395371
+                    ],
+                    [
+                        53.9966048107248, -77.3493665895371
+                    ],
+                    [
+                        57.69252943887011, -90.4011244020371
+                    ],
+                    [
+                        54.07161288063122, -95.8283704957871
+                    ],
+                    [
+                        50.60953587272235, -95.2790540895371
+                    ]
+                ]
+            }],
+            "Carolina Wren": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Bewick's Wren": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sage Thrasher": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Mockingbird": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ],
+                        [
+                            53.63513477448582, -86.83336162133291
+                        ],
+                        [
+                            52.812995289320895, -86.58067607445791
+                        ],
+                        [
+                            50.215867806880944, -84.28453349633291
+                        ],
+                        [
+                            50.33873628139631, -79.95317363305166
+                        ],
+                        [
+                            50.29313643655241, -78.37938212914541
+                        ],
+                        [
+                            54.588240811629646, -74.04527568383291
+                        ],
+                        [
+                            58.37027337965573, -86.75645732445791
+                        ],
+                        [
+                            55.34502161753965, -93.37022685570791
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "August 1",
+                    "end_date": "April 30",
+                    "coords": [
+                        [
+                            49.56500503776498, -95.47256032204191
+                        ],
+                        [
+                            48.926706127921136, -78.31191579079191
+                        ],
+                        [
+                            55.70334259551633, -76.20961799987032
+                        ],
+                        [
+                            57.16339748839163, -91.71439794797861
+                        ],
+                        [
+                            53.32477061803459, -96.27414319751026
+                        ],
+                        [
+                            49.56500503776498, -95.47256032204191
+                        ]
+                    ]
+                }
+            ],
+            "Mountain Bluebird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Townsend's Solitaire": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Varied Thrush": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Veery": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Gray-cheeked Thrush": [{
+                "start_date": "November 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Bicknell's Thrush": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Wood Thrush": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Eurasian Blackbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Fieldfare": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Siberian Rubythroat": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Northern Wheatear": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Phainopepla": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "House Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Eurasian Tree Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "White Wagtail": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Sprague's Pipit": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Brambling": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Gray-crowned Rosy-Finch": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "House Finch": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.46778832496062, -95.02632735883769
+                    ],
+                    [
+                        46.634007089683664, -77.95357345258769
+                    ],
+                    [
+                        56.00514788628344, -76.57639310371127
+                    ],
+                    [
+                        58.99671810411405, -95.23827525483485
+                    ],
+                    [
+                        53.18695597560194, -96.09909818183627
+                    ],
+                    [
+                        46.46778832496062, -95.02632735883769
+                    ]
+                ]
+            }],
+            "Cassin's Finch": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lesser Goldfinch": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Chestnut-collared Longspur": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Smith's Longspur": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        54.56365640575819, -92.84672650211155
+                    ],
+                    [
+                        51.66356303297081, -75.44438275211155
+                    ],
+                    [
+                        41.95687844291426, -69.29203900211155
+                    ],
+                    [
+                        39.848024633922726, -84.18949993961155
+                    ],
+                    [
+                        44.673968236350795, -99.43852337711155
+                    ],
+                    [
+                        54.56365640575819, -92.84672650211155
+                    ]
+                ]
+            }],
+            "McCown's Longspur": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Cassin's Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Bachman's Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Grasshopper Sparrow": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Chipping X Clay-colored Sparrow (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Clay-colored X Field Sparrow (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Field Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Brewer's Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-throated Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lark Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lark Bunting": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Golden-crowned Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Harris's Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        53.00725550665729, -81.9365000836181
+                    ],
+                    [
+                        49.35947798649629, -74.23783065002435
+                    ],
+                    [
+                        42.57523636966161, -71.9883799664306
+                    ],
+                    [
+                        40.90201374167771, -86.6496348492431
+                    ],
+                    [
+                        47.42614097179719, -85.1939463726806
+                    ],
+                    [
+                        53.00725550665729, -81.9365000836181
+                    ]
+                ]
+            }],
+            "White-crowned X White-throated Sparrow (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Dark-eyed Junco X White-throated Sparrow (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Vesper Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "LeConte's Sparrow": [{
+                "start_date": "November 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Nelson's Sparrow": [{
+                    "start_date": "June 1",
+                    "end_date": "August 31",
+                    "coords": [
+                        [
+                            46.15128657513815, -83.92235728608485
+                        ],
+                        [
+                            46.470014204010255, -77.55028697358485
+                        ],
+                        [
+                            45.55443786611173, -71.35399791108485
+                        ],
+                        [
+                            43.34714128892288, -76.96801158295985
+                        ],
+                        [
+                            41.35412244425683, -83.19725962983485
+                        ],
+                        [
+                            46.15128657513815, -83.92235728608485
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Baird's Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Henslow's Sparrow": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Green-tailed Towhee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Spotted Towhee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Eastern Towhee": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Yellow-breasted Chat": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-headed Blackbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        48.54033416817514, -93.34524053660348
+                    ],
+                    [
+                        55.993856213420116, -85.17151228475407
+                    ],
+                    [
+                        53.24722787393846, -67.68127790975409
+                    ],
+                    [
+                        40.607801893383005, -81.96345453567876
+                    ],
+                    [
+                        42.35661204672489, -83.48778259473487
+                    ],
+                    [
+                        42.32412751168586, -82.21610263012232
+                    ],
+                    [
+                        42.462403303164784, -82.34020143066324
+                    ],
+                    [
+                        48.54033416817514, -93.34524053660348
+                    ]
+                ]
+            }],
+            "Bobolink": [{
+                "start_date": "November 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Western Meadowlark": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        50.28153446516572, -95.08189786191193
+                    ],
+                    [
+                        49.63126628313149, -90.64342129941193
+                    ],
+                    [
+                        48.99382996221611, -87.73204434628693
+                    ],
+                    [
+                        47.53862614390008, -85.78746426816193
+                    ],
+                    [
+                        43.41213631801386, -86.18297208066193
+                    ],
+                    [
+                        40.64637149843311, -81.98619473691193
+                    ],
+                    [
+                        44.81604410300137, -69.17613614316193
+                    ],
+                    [
+                        58.541820495684306, -81.06334317441193
+                    ],
+                    [
+                        56.26707891442877, -95.63121426816193
+                    ],
+                    [
+                        50.28153446516572, -95.08189786191193
+                    ]
+                ]
+            }],
+            "Eastern Meadowlark": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Western X Eastern Meadowlark (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Orchard Oriole": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Hooded Oriole": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Bullock's Oriole": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Baltimore Oriole": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Scott's Oriole": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Brewer's Blackbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Great-tailed Grackle": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Ovenbird": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Worm-eating Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Golden-winged Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Blue-winged Warbler": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Prothonotary Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        45.30924367404927, -82.45489419122684
+                    ],
+                    [
+                        49.957902150184644, -100.90093911310184
+                    ],
+                    [
+                        58.38700300012785, -87.70635903497684
+                    ],
+                    [
+                        53.73860975693969, -79.68633950372684
+                    ],
+                    [
+                        47.993196088837095, -78.23614419122684
+                    ],
+                    [
+                        45.52517183860918, -73.07256997247684
+                    ],
+                    [
+                        44.43727345577775, -75.01715005060184
+                    ],
+                    [
+                        43.8855837350239, -76.30255044122684
+                    ],
+                    [
+                        43.77066024836085, -77.46160805841434
+                    ],
+                    [
+                        43.71907099948581, -78.62066567560184
+                    ],
+                    [
+                        42.78286641183597, -78.91180337091434
+                    ],
+                    [
+                        45.30924367404927, -82.45489419122684
+                    ]
+                ]
+            }],
+            "Swainson's Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Tennessee Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Virginia's Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Kentucky Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Hooded Warbler": [{
+                    "start_date": "January 1",
+                    "end_date": "December 31",
+                    "coords": [
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ],
+                        [
+                            46.99757384693988, -74.1122067893779
+                        ],
+                        [
+                            56.24481335004855, -74.22684420684075
+                        ],
+                        [
+                            57.68206807220005, -91.98075045684075
+                        ],
+                        [
+                            52.59153966111512, -95.59286534185931
+                        ],
+                        [
+                            46.83247357834313, -96.3924802268779
+                        ]
+                    ]
+                },
+                {
+                    "start_date": "December 1",
+                    "end_date": "March 31",
+                    "coords": null
+                }
+            ],
+            "Kirtland's Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Magnolia Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Bay-breasted Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Blackburnian Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Chestnut-sided Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Magnolia X Chestnut-sided Warbler (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Blackpoll Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Black-throated Blue Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Magnolia X Black-throated Blue Warbler (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Pine Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Yellow-rumped Warbler (Audubon's)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Magnolia X Yellow-rumped Warbler (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Yellow-throated Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Prairie Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ],
+                    [
+                        46.99757384693988, -74.1122067893779
+                    ],
+                    [
+                        56.24481335004855, -74.22684420684075
+                    ],
+                    [
+                        57.68206807220005, -91.98075045684075
+                    ],
+                    [
+                        52.59153966111512, -95.59286534185931
+                    ],
+                    [
+                        46.83247357834313, -96.3924802268779
+                    ]
+                ]
+            }],
+            "Grace's Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-throated Gray Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Townsend's Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-throated Gray X Townsend's Warbler (hybrid)": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Hermit Warbler": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-throated Green Warbler": [{
+                "start_date": "December 1",
+                "end_date": "March 31",
+                "coords": null
+            }],
+            "Painted Redstart": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Hepatic Tanager": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Summer Tanager": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Scarlet Tanager": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Western Tanager": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Pyrrhuloxia": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Black-headed Grosbeak": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Blue Grosbeak": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Lazuli Bunting": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Indigo Bunting": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": [
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ],
+                    [
+                        53.63513477448582, -86.83336162133291
+                    ],
+                    [
+                        52.812995289320895, -86.58067607445791
+                    ],
+                    [
+                        50.215867806880944, -84.28453349633291
+                    ],
+                    [
+                        50.33873628139631, -79.95317363305166
+                    ],
+                    [
+                        50.29313643655241, -78.37938212914541
+                    ],
+                    [
+                        54.588240811629646, -74.04527568383291
+                    ],
+                    [
+                        58.37027337965573, -86.75645732445791
+                    ],
+                    [
+                        55.34502161753965, -93.37022685570791
+                    ]
+                ]
+            }],
+            "Varied Bunting": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Painted Bunting": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }],
+            "Dickcissel": [{
+                "start_date": "January 1",
+                "end_date": "December 31",
+                "coords": null
+            }]
+        }
         "end_date": "December 31",
         "coords": null
     }],
