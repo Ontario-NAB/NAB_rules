@@ -2704,6 +2704,13 @@
             ]
         }
     ],
+    "White-tailed Kite": [
+        {
+            "start_date": "January 1",
+            "end_date": "December 31",
+            "coords": null
+        }
+    ],
     "Swallow-tailed Kite": [
         {
             "start_date": "January 1",
