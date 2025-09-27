@@ -1089,6 +1089,13 @@
             "coords": null
         }
     ],
+    "Pacific Golden-plover": [
+        {
+            "start_date": "January 1",
+            "end_date": "December 31",
+            "coords": null
+        }
+    ],
     "Lesser Sand-plover": [
         {
             "start_date": "January 1",
@@ -1268,6 +1275,13 @@
                     -91.66477846636705
                 ]
             ]
+        }
+    ],
+    "Surfbird": [
+        {
+            "start_date": "January 1",
+            "end_date": "December 31",
+            "coords": null
         }
     ],
     "Ruff": [
